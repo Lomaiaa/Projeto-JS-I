@@ -14,6 +14,6 @@ As tecnologias utilizadas foram:
 
 * **HTML**
 * **CSS**
-**JavaScript**
+* **JavaScript**
 
 Para inicializar o projeto direto pelo VsCode é necessário abrir cada arquivo html através da extensão Live Server ou então inicializá-los direto da pastinha clonada em seu computador.
